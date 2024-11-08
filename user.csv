@@ -1,5 +1,7 @@
-id,name,プランク,ヒップリフト,クランチ,フロントランジ,ランジ,レッグレイズ
-1,usera,ok,ok,ok,no,no,ok
-2,userb,ok,no,no,no,no,no
-3,userc,no,no,no,no,no,no
-4,test,no,no
+﻿ ,menu
+1,プランク
+2,ヒップリフト
+3,クランチ
+4,フロントランジ
+5,ランジ
+6,レッグレイズ
