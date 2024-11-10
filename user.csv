@@ -1,6 +1,6 @@
-id,name,プランク,ヒップリフト,クランチ,フロントランジ,ランジ,レッグレイズ
-1,usera,ok,ok,ok,no,ok,ok
-2,userb,ok,ok,ok,ok,no,ok
-3,userc,no,no,no,no,no,no
-4,testes,ok,ok,no,no,no,ok
-5,test2,no,no,no,no,no,no
+0,1,2,3,4,5,6,7,プランク
+1,usera,ok,ok,ok,no,ok,ok,
+2,userb,ok,ok,ok,ok,no,ok,
+3,userc,no,no,no,no,no,no,
+4,testes,ok,ok,no,no,no,ok,
+5,test2,no,no,no,no,no,no,
